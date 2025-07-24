@@ -6,4 +6,4 @@ image to ascii-art converter using pillow library in python
 3. use your desired ratios according to the file you are using
 4. open the newly created "ascii_file.txt"
 
-<a href ="https://www.youtube.com/watch?v=26aH-DNuO4g">link to guide posted on yt</a> 
+<a href ="https://www.youtube.com/watch?v=26aH-DNuO4g">link</a> to guide posted on yt 
