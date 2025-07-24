@@ -4,7 +4,7 @@ import string
 import random
 
 system = sys.argv[0]
-img = Image.open("jokerimage.jpg")
+img = Image.open("testingimage.png")
 pixels = img.getdata() #obtain the number of pixels
 
 #resizing the image unwillingly
