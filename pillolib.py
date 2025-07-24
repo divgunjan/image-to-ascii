@@ -10,7 +10,7 @@ pixels = img.getdata() #obtain the number of pixels
 #resizing the image unwillingly
 width,height = img.size
 aspect_ratio = height/width #stays constant
-new_width = 150
+new_width = 170
 new_height = aspect_ratio*new_width
 image = img.resize((new_width,int(new_height)))
 
