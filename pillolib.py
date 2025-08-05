@@ -2,7 +2,7 @@ from PIL import Image, ImageEnhance, ImageDraw, ImageFont
 from collections import Counter
 
 # Load and resize image
-img = Image.open("doom.jpg")
+img = Image.open("1_test.jpg")
 width, height = img.size
 aspect_ratio = height / width
 new_width = 150
