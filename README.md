@@ -175,7 +175,7 @@ ascii-art-converter/
 │   ├── 1_test.jpg        # Default test image
 │   ├── adams.jpg         # Portrait sample
 │   └── doom.jpg          # Logo sample
-├── pilllolib.py          # Main conversion script
+├── pillolib.py          # Main conversion script
 ├── LICENSE # LICENSE
 ├── colored_ascii.png     # Generated output example
 └── README.md             # This file
@@ -189,7 +189,7 @@ Try the converter with different images:
 
 ```bash
 # Run with default test image
-python pilllolib.py
+python pillolib.py
 
 # Test with different samples (modify script to change input)
 # - images/adams.jpg for portrait testing
