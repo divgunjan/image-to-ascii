@@ -2,12 +2,10 @@
 
 Transform any image into stunning ASCII art with this powerful Python-based converter. Create both terminal-friendly text output and beautifully colored ASCII images. Whether you're looking to create retro terminal displays, add artistic flair to your projects, or simply explore the beauty of text-based graphics, this tool delivers exceptional results with fine-tuned control over every aspect of the conversion process.
 
-## **✨ SHOWCASE**
 
 |   |   |
 |:--:|:--:|
-| ![Original](https://www.dropbox.com/scl/fi/xx2qelhzk11jmlbt40xh1/1_test.jpg?rlkey=g73uodi4crearp9n8mdrcst0y&st=79s3gi3w&dl=0) | ![ASCII Art](https://www.dropbox.com/scl/fi/7x9n2g6t2tk21k6w8ujtz/colored_ascii.png?rlkey=hpskme5b889vj1nrehzdxjnxn&st=zxvp1o7i&dl=0) |
-
+| ![Original](https://images2.imgbox.com/7f/23/LZBKeOAK_o.jpg) | ![ASCII Art](https://images2.imgbox.com/9f/55/yfxxm6Fx_o.png) |
 ---
 
 ## **🚀 QUICK START**
@@ -220,20 +218,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## **🙏 ACKNOWLEDGMENTS**
+<!-- `## **🙏 ACKNOWLEDGMENTS**
 
 - Inspired by the classic ASCII art movement
-- Built with Python's powerful imaging libraries
+- Built with Python's PIL library
 - Thanks to the open-source community for continuous inspiration
 
----
+---` -->
 
-## **📞 SUPPORT**
+<!-- ## **📞 SUPPORT**
 
 - **Issues**: [GitHub Issues](https://github.com/your-username/ascii-art-converter/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/your-username/ascii-art-converter/discussions)
 - **Email**: your-email@example.com
 
----
+--- -->
 
 *Transform your digital world into the timeless art of ASCII. Every pixel tells a story.* ✨
