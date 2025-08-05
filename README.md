@@ -172,7 +172,7 @@ new_width = 80
 ```
 ascii-art-converter/
 ├── images/
-│   ├── doom_logo.jpg        # Default test image
+│   ├── 1_test.jpg        # Default test image
 │   ├── adams.jpg         # Portrait sample
 │   └── doom.jpg          # Logo sample
 ├── pilllolib.py          # Main conversion script
