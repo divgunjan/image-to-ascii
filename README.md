@@ -201,7 +201,7 @@ The script will output the dominant color found and save the result as `colored_
 
 ---
 
-## **🤝 CONTRIBUTING**
+<!--## **🤝 CONTRIBUTING**
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on:
 
@@ -218,15 +218,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<!-- `## **🙏 ACKNOWLEDGMENTS**
+## **🙏 ACKNOWLEDGMENTS**
 
 - Inspired by the classic ASCII art movement
 - Built with Python's PIL library
 - Thanks to the open-source community for continuous inspiration
 
----` -->
+---` 
 
-<!-- ## **📞 SUPPORT**
+## **📞 SUPPORT**
 
 - **Issues**: [GitHub Issues](https://github.com/your-username/ascii-art-converter/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/your-username/ascii-art-converter/discussions)
